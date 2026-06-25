@@ -26,12 +26,17 @@ JavaScript-Learning/
 │       ├── A.Arithmetic_Operators.js
 │       ├── B.Assignment_Operators.js
 │       ├── C.Conversion_of_Datatypes.js
-│       └── D.Comparison_Operators.js
+│       ├── D.Comparison_Operators.js
+│       └── E.Logical_Operators.js
 │
 │   ├── 3.Loops/
 │       ├── A.for_loop_syntax.js
 │       ├── B.while_loop_syntax.js
 │       └── C.do_while_loop_syntax.js
+│
+│   ├── 4.if_else/
+│       ├── A.if_else.js
+│       └── B.if_elseif.js
 │
 └── README.md
 ```
