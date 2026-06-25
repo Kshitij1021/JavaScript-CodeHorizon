@@ -38,6 +38,20 @@ JavaScript-Learning/
 │       ├── A.if_else.js
 │       └── B.if_elseif.js
 │
+├── 02_Number_and_Maths_Objects/
+│   ├── 1.Number_Objects/
+│       ├── A.toFixed().js
+│       ├── B.toPrecision().js
+│       └── C.toString().js
+│
+│   ├── 2.Math_Objects/
+│       ├── A.function_values.js
+│       ├── B.functions.js
+│       ├── C.Math.random_01.js
+│       ├── D.Math.random_02.js
+│       ├── E.Math.random_03.js
+│       └── F.Math.random_04.js
+│
 └── README.md
 ```
 
